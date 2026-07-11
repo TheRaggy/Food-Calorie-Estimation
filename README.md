@@ -1,2 +1,2 @@
 # Food-Calorie-Estimation
-A simple and Effective Web Application to Estimate Food Calorie and its Nutrition Values Using HTML,CSS,,JS &amp; Python.
+A web-based Food Calorie Estimation System Developed Using Python, Flask, CSS, JS, and Excel as Data Source
